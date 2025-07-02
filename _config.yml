@@ -13,7 +13,7 @@ title: Zach Hoffman's Portfolio # This is what shows up in the tab of the browse
 
 # Hero Section
 name: Zach DeRyan Hoffman
-headline: Mechanical Engineer | Project Manager | CAD | FEA | Thermal Systems | Construction Management | Permitting
+headline: Mechanical Engineer | Project Manager | CAD | FEA | Thermal and Hydraulic Systems | Construction Management | Permitting
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Results-driven Mechanical Engineer with hands-on experience designing and analyzing systems for infrastructure projects. 
   Proven ability to lead cross-functional teams, execute design validation, and deliver reliable solutions under strict deadlines. 
@@ -25,7 +25,7 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url: assets/resume/ZDHoffmanaResume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
@@ -48,17 +48,16 @@ skills:
     - CNC
     - Arduino / Raspberry Pi
     - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+  - category: Project Management 
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: Problem Solving / Risk Management
+    - Microsoft Suite (Project, PowerBI, Tasks)
+    - Trello 
+  - category: Soft Skills
     tools:
-    - Root Cause Analysis
-    - DFMEA / PFMEA 
+    - Team Leadership
+    - Cross-Functional Collaboration 
     - Six Sigma methodologies
-    - Shain Red-X
+    - Agile Project Execution
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
